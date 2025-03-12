@@ -2,6 +2,7 @@
 Author: _Xinyue 'Yolanda' Pan_  
 Date: _March 9th, 2025_  
 Presentation Video Link: _https://www.youtube.com/watch?v=eMbICh3nlS8_  
+Deliverables: _https://github.com/xpan4869/western_views_on_LLM_models/blob/main/Narratives-of-AI-Innovation_Slides.pdf_  
 
 ## Github Repo Overview  
 **Data**: 
